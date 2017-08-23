@@ -41,3 +41,8 @@ You can optionally set two properties via these methods:
 - `setAmplitude(number)` : Alter the range between which the generated values will fall, e.g. setting it to 2 will generate values between 0 and 2. Default is 1.
 - `setScale(number)` : Change the frequency of the function. A larger number "squashes" the values closer together, and vice-versa. When using the generator for animations (as in the second demo), this parameter can be thought of a "frequency". Default is 1.
 
+
+
+
+
+Hello
